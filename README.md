@@ -22,8 +22,8 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuario&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Odiegodev1&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Odiegodev1&layout=compact&theme=radical)
 
 ## Projetos Destacados
 Aqui estão alguns dos meus projetos favoritos:
