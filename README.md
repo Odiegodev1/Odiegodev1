@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu GitHub!
 
-![Banner](https://avatars.githubusercontent.com/u/175752702?v=4&size=40) <!-- Substitua com o URL da sua imagem de banner -->
+![Banner](https://lh3.googleusercontent.com/a/ACg8ocLy1EY6z2orbQNBuD34vvRd-G8d75arAmx80MLqgOtLlO9fIr4=s288-c-no) <!-- Substitua com o URL da sua imagem de banner -->
 
 ## Sobre Mim
 👋 Olá, sou [Seu Nome]!
