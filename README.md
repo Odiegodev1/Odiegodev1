@@ -3,7 +3,7 @@
 ![Banner](https://lh3.googleusercontent.com/a/ACg8ocLy1EY6z2orbQNBuD34vvRd-G8d75arAmx80MLqgOtLlO9fIr4=s288-c-no) <!-- Substitua com o URL da sua imagem de banner -->
 
 ## Sobre Mim
-👋 Olá, sou [Seu Nome]!
+👋 Olá, sou Diego Santos!
 
 - 🔭 Atualmente estou trabalhando em: **[Projeto atual]**
 - 🌱 Aprendendo: **[Tecnologia/Framework atual]**
