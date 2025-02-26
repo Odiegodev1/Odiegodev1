@@ -25,15 +25,5 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Odiegodev1&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Odiegodev1&layout=compact&theme=radical)
 
-## Projetos Destacados
-Aqui estão alguns dos meus projetos favoritos:
 
-- **[Projeto 1](link_para_o_projeto)**: Descrição do projeto 1.
-- **[Projeto 2](link_para_o_projeto)**: Descrição do projeto 2.
-- **[Projeto 3](link_para_o_projeto)**: Descrição do projeto 3.
-
-## Contato
-- [LinkedIn](link_para_o_seu_linkedin)
-- [Twitter](link_para_o_seu_twitter)
-- [Site Pessoal](link_para_o_seu_site)
 
