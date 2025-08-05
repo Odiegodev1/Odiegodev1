@@ -31,7 +31,7 @@ Estou sempre estudando novas ferramentas, APIs, e formas de melhorar a experiên
 ## 📬 Contato
 
 - GitHub: [@Odiegodev1](https://github.com/Odiegodev1)
-- LinkedIn: [linkedin.com/in/seu-perfil](#)
+- LinkedIn: [[linkedin.com/in/seu-perfil]](https://www.linkedin.com/in/diego-santos-aa7982321/)(#)
 - E-mail: seu-email@example.com
 
 ---
