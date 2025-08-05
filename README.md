@@ -1,29 +1,39 @@
-# Bem-vindo ao Meu GitHub!
+# 👋 Sobre mim
 
-![Banner](https://lh3.googleusercontent.com/a/ACg8ocLy1EY6z2orbQNBuD34vvRd-G8d75arAmx80MLqgOtLlO9fIr4=s288-c-no) <!-- Substitua com o URL da sua imagem de banner -->
+Olá! Me chamo **Diego Santos** e sou desenvolvedor web com foco em criar aplicações modernas e funcionais. Gosto de transformar ideias em projetos reais e estou sempre buscando aprender e evoluir com novos desafios.
 
-## Sobre Mim
-👋 Olá, sou Diego Santos!
+## 🚀 Tecnologias que utilizo
 
-- 🔭 Atualmente estou trabalhando em: **[Projeto atual]**
-- 🌱 Aprendendo: **[Tecnologia/Framework atual]**
-- 👯 Buscando colaborar em: **[Projetos ou áreas de interesse]**
-- 💬 Pergunte-me sobre: **[Tecnologias/Áreas de especialidade]**
-- 📫 Como me encontrar: **[Email ou outro meio de contato]**
-- ⚡ Curiosidade: **[Curiosidade interessante sobre você]**
+- **Next.js** — Framework fullstack para aplicações rápidas e modernas.
+- **React** — UI declarativa e componentizada.
+- **Supabase** — Banco de dados em tempo real com autenticação.
+- **Tailwind CSS** — Estilização rápida e eficiente com utilitários.
+- **ShadCN UI** — Componentes acessíveis e estilosos para interfaces React.
+- **Prisma** — ORM moderno e poderoso para banco de dados SQL.
+- **TypeScript** — Segurança e escalabilidade no código.
 
-## Linguagens e Ferramentas
-Aqui estão algumas das tecnologias com as quais trabalho:
+## 💡 O que estou construindo
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Atualmente estou desenvolvendo projetos como:
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Odiegodev1&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Odiegodev1&layout=compact&theme=radical)
+- 🔧 **Dashboards financeiros pessoais**
+- 🕹️ **Jogos de clique com ranking em tempo real**
+- ✂️ **Agendamento para barbearias com painel administrativo**
+- 🛠️ **Marketplaces locais com contratação via WhatsApp**
+- 🎨 **SaaS de geração de thumbnails e currículos**
+- 🤖 **Assistente de IA para assistência técnica de celular**
+- 🧠 **Detector de sono para motoristas usando IA**
 
+## 📚 Estudo contínuo
 
+Estou sempre estudando novas ferramentas, APIs, e formas de melhorar a experiência do usuário. Acredito na evolução constante, principalmente com foco em performance e usabilidade.
 
+## 📬 Contato
+
+- GitHub: [@Odiegodev1](https://github.com/Odiegodev1)
+- LinkedIn: [linkedin.com/in/seu-perfil](#)
+- E-mail: seu-email@example.com
+
+---
+
+Obrigado por visitar meu perfil! 🚀
