@@ -1,38 +1,33 @@
 # 👋 Sobre mim
 
-Olá! Me chamo **Diego Santos** e sou desenvolvedor web com foco em criar aplicações modernas e funcionais. Gosto de transformar ideias em projetos reais e estou sempre buscando aprender e evoluir com novos desafios.
+Olá! Me chamo **Diego Santos** e sou desenvolvedor web com foco em aplicações modernas e funcionais. Atualmente curso **Engenharia de Software** e venho colocando em prática o que aprendo através de projetos reais.
 
-## 🚀 Tecnologias que utilizo
+## 🎯 Projetos que desenvolvi
 
-- **Next.js** — Framework fullstack para aplicações rápidas e modernas.
-- **React** — UI declarativa e componentizada.
-- **Supabase** — Banco de dados em tempo real com autenticação.
-- **Tailwind CSS** — Estilização rápida e eficiente com utilitários.
-- **ShadCN UI** — Componentes acessíveis e estilosos para interfaces React.
-- **Prisma** — ORM moderno e poderoso para banco de dados SQL.
-- **TypeScript** — Segurança e escalabilidade no código.
+- 🔗 [**apoiaDev**](https://github.com/Odiegodev1/apoiaDev) — Plataforma de apoio a criadores de conteúdo.
+- 🕹️ **Jogo de clique com ranking em tempo real** — Jogo online onde os usuários competem por cliques e evoluem no ranking.
+- ✂️ **Sistema de agendamento para barbearia** — Agendamentos por ordem de chegada com painel administrativo em tempo real.
 
-## 💡 O que estou construindo
+## 🧰 Tecnologias e ferramentas
 
-Atualmente estou desenvolvendo projetos como:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nextjs,prisma,supabase,python" />
+</div>
 
-- 🔧 **Dashboards financeiros pessoais**
-- 🕹️ **Jogos de clique com ranking em tempo real**
-- ✂️ **Agendamento para barbearias com painel administrativo**
-- 🛠️ **Marketplaces locais com contratação via WhatsApp**
-- 🎨 **SaaS de geração de thumbnails e currículos**
-- 🤖 **Assistente de IA para assistência técnica de celular**
-- 🧠 **Detector de sono para motoristas usando IA**
+- **JavaScript**, **HTML**, **CSS**
+- **React**, **Tailwind CSS**, **Next.js**
+- **Prisma**, **Supabase**
+- **Python**
 
-## 📚 Estudo contínuo
+## 📚 Formação
 
-Estou sempre estudando novas ferramentas, APIs, e formas de melhorar a experiência do usuário. Acredito na evolução constante, principalmente com foco em performance e usabilidade.
+🎓 Graduando em **Engenharia de Software**
 
 ## 📬 Contato
 
 - GitHub: [@Odiegodev1](https://github.com/Odiegodev1)
-- LinkedIn: [[linkedin.com/in/seu-perfil]](https://www.linkedin.com/in/diego-santos-aa7982321/)(#)
-- E-mail: seu-email@example.com
+- LinkedIn: [linkedin.com/in/seu-perfil](#) *(coloque seu link aqui)*
+- E-mail: seu-email@example.com *(substitua pelo seu e-mail)*
 
 ---
 
