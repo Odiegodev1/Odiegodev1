@@ -24,8 +24,7 @@ Olá! Me chamo **Diego Santos** e sou desenvolvedor web com foco em aplicações
 ## 📬 Contato
 
 - GitHub: [@Odiegodev1](https://github.com/Odiegodev1)
-- LinkedIn: [linkedin.com/in/seu-perfil](#) *(coloque seu link aqui)*
-- E-mail: seu-email@example.com *(substitua pelo seu e-mail)*
+
 
 ---
 
