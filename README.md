@@ -5,8 +5,6 @@ Olá! Me chamo **Diego Santos** e sou desenvolvedor web com foco em aplicações
 ## 🎯 Projetos que desenvolvi
 
 - 🔗 [**apoiaDev**](https://github.com/Odiegodev1/apoiaDev) — Plataforma de apoio a criadores de conteúdo.
-- 🕹️ **Jogo de clique com ranking em tempo real** — Jogo online onde os usuários competem por cliques e evoluem no ranking.
-- ✂️ **Sistema de agendamento para barbearia** — Agendamentos por ordem de chegada com painel administrativo em tempo real.
 
 ## 🧰 Tecnologias e ferramentas
 
